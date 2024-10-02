@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saurabh Kumar Singh</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh878-op&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh878-op" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trekzest&label=Profile%20views&color=0e75b6&style=flat" alt="trekzest" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabh878-op" alt="saurabh878-op" /></a> </p>
+<p align="left"> <a href="https://github.com/trekzeat"><img src="https://github-profile-trophy.vercel.app/?username=saurabh878-op" alt="saurabh878-op" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kumar_saurabh_7" target="blank"><img src="https://img.shields.io/twitter/follow/kumar_saurabh_7?logo=twitter&style=for-the-badge" alt="kumar_saurabh_7" /></a> </p>
 
