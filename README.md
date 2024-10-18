@@ -23,7 +23,7 @@ Hello, I Am Saurabh Kumar Singh ! <br>
 </div>
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>“Pre-final year computer science graduate with a passion for software engineering. Proven ability to learn new technologies quickly and apply them to real-world problems. Seeking an entry-level position where I can use my skills and knowledge to contribute to a team and make a positive impact on the company”.</p>
+    <p>“computer science student with a passion for software engineering. Proven ability to learn new technologies quickly and apply them to real-world problems. Seeking an entry-level position where I can use my skills and knowledge to contribute to a team and make a positive impact on the company”.</p>
 </div>
 <h3 align="center">Connect with me:</h3>
 <p align="left">
