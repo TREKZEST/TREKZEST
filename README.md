@@ -19,9 +19,7 @@ Hello, I Am Saurabh Kumar Singh ! <br>
 </br> 
 
 <div align="center">
-    <p>
-        <img src="URL_OF_YOUR_GIF.gif" alt="Descriptive Text for the GIF" />
-    </p>
+    
 </div>
 <div align="center">
     <h2>🚀 About Me</h2>
