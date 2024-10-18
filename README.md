@@ -5,7 +5,7 @@ Hello, I Am Saurabh Kumar Singh ! <br>
 <div align="center">
     <h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=1000&center=true&random=false&width=439&lines=Welcome+to+My+GitHub+Profile;Welcome+I+am+Software+Engineer;Turning+idea+into+code.;Pushing+Boundaries+and+Solve+Problem.;I+can+code+Fluent+in+Python+and+Cpp;Let's+Connect+and+Build+Career.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=1000&center=true&random=false&width=439&lines=Welcome+to+My+GitHub+Profile;Welcome+I+am+Software+Engineer;Turning+idea+into+code.;Pushing+Boundaries+and+Solve+Problem.;Let's+Connect+and+Build+Career.)](https://git.io/typing-svg)
 
 </h1>
 </div>
