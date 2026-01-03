@@ -31,8 +31,7 @@ Hello, I Am Saurabh Kumar Singh ! <br>
 <p>
 <br>
 <br>
-<a href="https://leetcode.com/u/PtqLUEbtoC/">
-<a href="https://www.linkedin.com/in/Trekzest/">
+
 - 👋 Hi, I’m @Saurabh Kumar Singh<br>
 - 👀 I’m interested in Coding<br>
 - 🌱 I’m currently learning Data Science<br>
@@ -42,7 +41,8 @@ Hello, I Am Saurabh Kumar Singh ! <br>
 - ⚡ Fun fact: <br>
     </p>
 </div>
-
+<a href="https://leetcode.com/u/PtqLUEbtoC/">
+<a href="https://www.linkedin.com/in/Trekzest/">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+M54&pause=1000&color=FDB60D&width=435&lines=Thanks+for+visiting+my+profile!)](https://git.io/typing-svg)
 
