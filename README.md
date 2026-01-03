@@ -42,7 +42,7 @@ Hello, I Am Saurabh Kumar Singh ! <br>
     </p>
 </div>
 <a href="https://leetcode.com/u/PtqLUEbtoC/">Leetcode</a>
-<a href="https://www.linkedin.com/in/Trekzest/">Linkedin</a>
+<a href="https://www.linkedin.com/in/sawrrabh/">Linkedin</a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+M54&pause=1000&color=FDB60D&width=435&lines=Thanks+for+visiting+my+profile!)](https://git.io/typing-svg)
 
